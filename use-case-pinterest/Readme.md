@@ -16,17 +16,10 @@
 
 ---
 
-## 🧠 Low-Level Design
 
-### 1️⃣ Input Data Structure
-
-## 🧠 Low-Level Design
-
----
-
-### 1️⃣ Input Data Structure
 
 ```python
+low level
 profile_data = {
     "username": "DreamyCrafter",
     "bio": "Obsessed with DIYs and aesthetic boards.",
