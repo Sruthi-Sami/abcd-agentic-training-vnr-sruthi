@@ -20,6 +20,12 @@
 
 ### 1️⃣ Input Data Structure
 
+## 🧠 Low-Level Design
+
+---
+
+### 1️⃣ Input Data Structure
+
 ```python
 profile_data = {
     "username": "DreamyCrafter",
@@ -29,6 +35,7 @@ profile_data = {
         {"board_name": "Dessert Dreams", "pins": ["Chocolate cake", "Strawberry mousse"]}
     ]
 }
+
 2️⃣ Blog Generation Logic
 The system constructs a detailed prompt using the provided Pinterest data.
 It calls the OpenAI API to generate a funny and sarcastic 600–800 word blog.
